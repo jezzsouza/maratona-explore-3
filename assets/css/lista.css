@@ -1,0 +1,29 @@
+ul {
+    list-style: none;
+  }
+
+ul li {
+    display: flex;
+    margin-bottom: 16px;
+}
+
+li .produto {
+    max-width: 240px;
+}
+
+.produto__titulo {
+    font-size: 16px;
+    line-height: 19px;
+  }
+
+.produto .produto__titulo {
+    margin-bottom: 8px;
+}
+
+.produto .produto__descricao {
+    color: rgba(0, 0, 0, 0.6);  
+    font-size: 14px;
+    line-height: 21px;
+}
+ 
+ 

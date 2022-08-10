@@ -1,0 +1,20 @@
+.cabecalho {
+    padding: 32px 0;
+    text-align: center;
+}
+
+.cabecalho__titulo {
+    font-size: 28px;
+    line-height: 33px;
+    margin-bottom: 4px;
+}
+
+#cor {
+color: #995000;
+}
+
+.cabecalho__descricao {
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 14px;
+    line-height: 16px;
+}
